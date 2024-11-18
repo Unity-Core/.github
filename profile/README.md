@@ -33,7 +33,7 @@ Unity Core — це надійний фундамент, який дозволя
 
 ## Пакети Unity Core:
 
-- **Logging.Core**: (пакет логування) [[Projects/Unity Core/Packages/Unity Core/Logging.Core/README|README]].
+- **[Logging.Core](https://github.com/Unity-Core/com.stripedarts.uc.log.core)** - пакет логування.
 
 ## Пакети 3rdParty:
 
